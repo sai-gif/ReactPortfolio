@@ -37,7 +37,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src={"ReactPortfolio/public/images/selfi.jpg"}
+            src={"images/selfi.jpg"}
           />
         </div>
         
