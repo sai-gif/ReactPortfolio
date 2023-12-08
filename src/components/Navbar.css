@@ -1,0 +1,14 @@
+/* Navbar.css */
+/* Add this to your existing CSS file or create a new one */
+
+/* Dimmed link styles */
+.nav-link {
+    color: #a0aec0; /* Adjust the dim color as needed */
+  }
+  
+  /* Active link styles */
+  .nav-link.active {
+    color: #ffffff; /* White color for active link */
+    font-weight: bold; /* Bold font for active link */
+  }
+  
