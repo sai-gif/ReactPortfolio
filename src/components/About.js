@@ -40,6 +40,7 @@ export default function About() {
             src={process.env.PUBLIC_URL +"/images/selfi.jpg"}
           />
         </div>
+        
       </div>
     </section>
   );
